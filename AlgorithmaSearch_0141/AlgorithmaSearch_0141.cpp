@@ -27,4 +27,9 @@ void input()
 		}
 }
 
+void LinearSearch()
+{
+
+}
+
 int main();
