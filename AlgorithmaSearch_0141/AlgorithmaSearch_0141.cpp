@@ -31,6 +31,7 @@ void LinearSearch()
 {
 	char ch;
 	int ctr; // Jumlah Perbandingan
+	int item;
 }
 
 int main();
