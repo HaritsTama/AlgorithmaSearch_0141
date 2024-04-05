@@ -19,12 +19,12 @@ void input()
 	//Menerima elements array
 	cout << "\n----------------------\n";
 	cout << " Enter Array Elements \n";
-	cout << "----------------------\n"
-		for (i = 0; i < n; i++)
-		{
-			cout << "<" << (i + 1) << ">";
-			cin >> arr[i];
-		}
+	cout << "----------------------\n";
+	for (i = 0; i < n; i++)
+	{
+		cout << "<" << (i + 1) << ">";
+		cin >> arr[i];
+	}
 }
 
 void LinearSearch()
