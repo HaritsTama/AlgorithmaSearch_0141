@@ -32,6 +32,12 @@ void LinearSearch()
 	char ch;
 	int ctr; // Jumlah Perbandingan
 	int item;
+
+	do
+	{
+		// Menerima nomor untuk dicari
+		while (i < n)
+	}
 }
 
 int main();
